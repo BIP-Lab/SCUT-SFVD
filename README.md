@@ -24,20 +24,20 @@ Images from the same client are regrouped into a single folder labeled.
 
 NOTE: When processing these images, you only need to consider the first two label, i.e. “ID” and “finger”. 
 
-* Example of the nomenclature for the real images from the client #1:
-  *real/1/1_1_1_0_5.bmp
-  *real/1/1_1_1_1_5.bmp
-  *real/1/1_1_1_2_5.bmp
-  *real/1/1_1_1_3_5.bmp
-  *real/1/1_1_1_4_6.bmp
-  *real/1/1_1_1_5_5.bmp
-* Example of the nomenclature for the spoofing images from the client #1:
-  *spoof/1/1_1_0_0_3.bmp
-  *spoof/1/1_1_0_1_4.bmp
-  *spoof/1/1_1_0_2_3.bmp
-  *spoof/1/1_1_0_3_3.bmp
-  *spoof/1/1_1_0_4_3.bmp
-  *spoof/1/1_1_0_5_3.bmp
+* Example of the nomenclature for the real images from the client #1:    
+  *real/1/1_1_1_0_5.bmp    
+  *real/1/1_1_1_1_5.bmp    
+  *real/1/1_1_1_2_5.bmp   
+  *real/1/1_1_1_3_5.bmp    
+  *real/1/1_1_1_4_6.bmp   
+  *real/1/1_1_1_5_5.bmp   
+* Example of the nomenclature for the spoofing images from the client #1:   
+  *spoof/1/1_1_0_0_3.bmp   
+  *spoof/1/1_1_0_1_4.bmp   
+  *spoof/1/1_1_0_2_3.bmp   
+  *spoof/1/1_1_0_3_3.bmp   
+  *spoof/1/1_1_0_4_3.bmp   
+  *spoof/1/1_1_0_5_3.bmp   
 
 ## Request
 The SCUT-MMSIG multimodel online signature database is publicly available (free of charge) to the research community.  
@@ -61,6 +61,13 @@ College of Automation Science and Engineering
 South China University of Technology  
 Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641  
 Qiu.xinwei@mail.scut.edu.cn  
+
+Huang Zhixing  
+Biometrics and Intelligence Perception Lab.  
+College of Automation Science and Engineering  
+South China University of Technology  
+Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641  
+Huang.zhixing @mail.scut.edu.cn  
 
 Prof. Kang Wenxiong  
 Biometrics and Intelligence Perception Lab.  
