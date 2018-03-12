@@ -46,15 +46,15 @@ Unfortunately, due to privacy reasons, we cannot provide the database for commer
 Those interested in obtaining SCUT-SFVD should download [release agreement](https://github.com/BIP-Lab/SCUT--SFVD/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the SCUT-SFVD, please cite the following article:  
-@article{qiu2018finger, 
-  title={Finger Vein Presentation Attack Detection Using Total Variation Decomposition}, 
-  author={Qiu, Xinwei and Kang, Wenxiong and Tian, Senping and Jia, Wei and Huang, Zhixing}, 
-  journal={IEEE Transactions on Information Forensics and Security}, 
-  volume={13}, 
-  number={2}, 
-  pages={465-477}, 
-  year={2018}, 
-  publisher={IEEE} 
+@article{qiu2018finger,  
+  title={Finger Vein Presentation Attack Detection Using Total Variation Decomposition},  
+  author={Qiu, Xinwei and Kang, Wenxiong and Tian, Senping and Jia, Wei and Huang, Zhixing},  
+  journal={IEEE Transactions on Information Forensics and Security},  
+  volume={13},  
+  number={2},  
+  pages={465-477},  
+  year={2018},  
+  publisher={IEEE}  
 }
 
 ## Contact
