@@ -43,7 +43,7 @@ NOTE: When processing these images, you only need to consider the first two labe
 The SCUT-SFVD is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-Those interested in obtaining SCUT-SFVD should download [release agreement](https://github.com/BIP-Lab/SCUT--SFVD/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining SCUT-SFVD should download [release agreement](https://github.com/BIP-Lab/SCUT--SFVD/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com. This License Agreement must be emailed by the Institutional email address
 
 While reporting results using the SCUT-SFVD, please cite the following article:  
 @article{qiu2018finger,  
